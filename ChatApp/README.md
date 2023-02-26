@@ -1,3 +1,3 @@
 # ChatApp
-JAVA17
-Gradle
+  - JAVA17
+  - Gradle
